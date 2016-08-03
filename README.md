@@ -21,3 +21,13 @@
 * enumerate関数、set関数、文字コード変換について説明
 * 次回は2章からスタート
 
+### 8/3 wed. python勉強会
+#### 気になるところ
+* shu.e11のline.expandtabs()
+* shu.e16の説明、分割のあまりはどのように処理したか
+* shu.e17のcodecs.openとは
+* tang.q12のwith openが,で並列できる件
+* tang.q16の説明
+* 全体：f.openしたらf.closeが必ず必要
+
+
